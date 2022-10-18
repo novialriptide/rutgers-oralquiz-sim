@@ -18,7 +18,7 @@ python src/main.py
 ```
 
 If you want to keep outputting random voices, just do `python src/main.py`.
-DO NOT EXECUTE FROM INSIDE OF `src`.
+Do not execute from the inside of `src`.
 
 ## Syntax
 
