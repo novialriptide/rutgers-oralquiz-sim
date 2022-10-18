@@ -2,6 +2,9 @@
 An oral exam simulator created for Rutgers University - New Brunswick's Elementary Korean
 2022 Fall Semester course (01:574:101:01) utilizing [Google's Text-to-Speech](https://gtts.readthedocs.io/en/latest/) API.
 
+This program just fetches a random question prompt and just speaks the prompt, while
+also considering any variants that it might have.
+
 If you're going to use this, it might not be good because i literally wrote this in 1h42min
 (at the time of writing).
 
