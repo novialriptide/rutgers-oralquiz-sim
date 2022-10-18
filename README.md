@@ -1,6 +1,8 @@
 # Oral Examination 1 Simulator (Lesson 1 - 3)
 Created for Rutgers University - New Brunswick's Elementary Korean 2022 Fall Semester course (01:574:101:01).
 
+If you're going to use this, it might not be good because i literally wrote this in 1h42min (at the time of writing).
+
 ## Syntax
 
 For prompts,
