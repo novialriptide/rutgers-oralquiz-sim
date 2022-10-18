@@ -27,7 +27,7 @@ def parse_prompt(prompt: str) -> List[str]:
             placeholder = list(results.keys())[i]
             current_prompt = current_prompt.replace(placeholder, y)
 
-        prompts.append(current_prompt)
+        prompts.append(current_prompt.split("#")[0])
 
     return prompts
 
